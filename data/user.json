@@ -1,0 +1,245 @@
+[
+  {
+    "creatorName": "Creator 04",
+    "nftImage": "nft-image-1.png",
+    "userImage": "user-1.png",
+    "accountAddress": "0x31a13fa12f0602aba55d8cc7fa453d8b4311d6c0",
+    "creatorId": "1",
+    "intro": "Digital artist and collector. Sample profile text for demo purposes.",
+    "collectiables": [
+      {
+        "type": "image",
+        "like": 342,
+        "nftImage": "nft-image-2.png",
+        "likeProfile": [
+          "user-1.png",
+          "user-2.png",
+          "user-4.png",
+          "user-3.png"
+        ],
+        "nftName": "Ape Monkey",
+        "nftId": 1,
+        "nftPrice": 2.0,
+        "offerTiming": 4
+      },
+      {
+        "type": "image",
+        "like": 342,
+        "nftImage": "nft-image-1.png",
+        "likeProfile": [
+          "user-5.png",
+          "user-6.png",
+          "user-7.png",
+          "user-8.png"
+        ],
+        "nftName": "Funny Monkey",
+        "nftId": 2,
+        "nftPrice": 3.0,
+        "offerTiming": 1
+      },
+      {
+        "type": "image",
+        "like": 32,
+        "nftImage": "nft-image-3.png",
+        "likeProfile": [
+          "user-9.png",
+          "user-10.png",
+          "user-1.png",
+          "user-2.png"
+        ],
+        "nftName": "Hey Monkey",
+        "nftId": 3,
+        "nftPrice": 9.0,
+        "offerTiming": 4
+      },
+      {
+        "type": "image",
+        "like": 12,
+        "nftImage": "nft-image-1.png",
+        "likeProfile": [
+          "user-3.png",
+          "user-1.png",
+          "user-4.png",
+          "user-5.png"
+        ],
+        "nftName": "Hey Monkey",
+        "nftId": 4,
+        "nftPrice": 3.0,
+        "offerTiming": 14
+      },
+      {
+        "type": "image",
+        "like": 442,
+        "nftImage": "nft-image-3.png",
+        "likeProfile": [
+          "user-6.png",
+          "user-7.png",
+          "user-8.png",
+          "user-9.png"
+        ],
+        "nftName": "Kon Monkey",
+        "nftId": 5,
+        "nftPrice": 7.0,
+        "offerTiming": 9
+      }
+    ],
+    "created": [
+      {
+        "type": "image",
+        "nftImage": "nft-image-1.png",
+        "like": 342,
+        "likeProfile": [
+          "user-1.png",
+          "user-2.png",
+          "user-4.png",
+          "user-3.png"
+        ],
+        "nftName": "Ape Monkey",
+        "nftId": 1,
+        "nftPrice": 2.0,
+        "offerTiming": 4
+      },
+      {
+        "type": "image",
+        "like": 342,
+        "nftImage": "nft-image-3.png",
+        "likeProfile": [
+          "user-5.png",
+          "user-6.png",
+          "user-7.png",
+          "user-8.png"
+        ],
+        "nftName": "Funny Monkey",
+        "nftId": 2,
+        "nftPrice": 3.0,
+        "offerTiming": 1
+      },
+      {
+        "type": "image",
+        "like": 32,
+        "nftImage": "nft-image-2.png",
+        "likeProfile": [
+          "user-9.png",
+          "user-10.png",
+          "user-1.png",
+          "user-2.png"
+        ],
+        "nftName": "Hey Monkey",
+        "nftId": 3,
+        "nftPrice": 9.0,
+        "offerTiming": 4
+      },
+      {
+        "type": "image",
+        "like": 12,
+        "nftImage": "nft-image-2.png",
+        "likeProfile": [
+          "user-3.png",
+          "user-1.png",
+          "user-4.png",
+          "user-5.png"
+        ],
+        "nftName": "Hey Monkey",
+        "nftId": 4,
+        "nftPrice": 3.0,
+        "offerTiming": 14
+      },
+      {
+        "type": "image",
+        "like": 442,
+        "nftImage": "nft-image-3.png",
+        "likeProfile": [
+          "user-6.png",
+          "user-7.png",
+          "user-8.png",
+          "user-9.png"
+        ],
+        "nftName": "Kon Monkey",
+        "nftId": 5,
+        "nftPrice": 7.0,
+        "offerTiming": 9
+      }
+    ],
+    "liked": [
+      {
+        "type": "image",
+        "nftImage": "nft-image-1.png",
+        "like": 342,
+        "likeProfile": [
+          "user-1.png",
+          "user-2.png",
+          "user-4.png",
+          "user-3.png"
+        ],
+        "nftName": "Ape Monkey",
+        "nftId": 1,
+        "nftPrice": 2.0,
+        "offerTiming": 4
+      },
+      {
+        "type": "image",
+        "like": 342,
+        "nftImage": "nft-image-3.png",
+        "likeProfile": [
+          "user-5.png",
+          "user-6.png",
+          "user-7.png",
+          "user-8.png"
+        ],
+        "nftName": "Funny Monkey",
+        "nftId": 2,
+        "nftPrice": 3.0,
+        "offerTiming": 1
+      },
+      {
+        "type": "image",
+        "like": 32,
+        "nftImage": "nft-image-2.png",
+        "likeProfile": [
+          "user-9.png",
+          "user-10.png",
+          "user-1.png",
+          "user-2.png"
+        ],
+        "nftName": "Hey Monkey",
+        "nftId": 3,
+        "nftPrice": 9.0,
+        "offerTiming": 4
+      }
+    ],
+    "followers": [
+      {
+        "name": "User 01",
+        "userImage": "user-1.png",
+        "description": "Digital collector and creator. Sample profile text for demo purposes.",
+        "bool": true
+      },
+      {
+        "name": "User 02",
+        "userImage": "user-2.png",
+        "description": "Digital collector and creator. Sample profile text for demo purposes.",
+        "bool": true
+      }
+    ],
+    "following": [
+      {
+        "name": "User 02",
+        "userImage": "user-3.png",
+        "description": "Digital collector and creator. Sample profile text for demo purposes.",
+        "bool": true
+      },
+      {
+        "name": "User 03",
+        "userImage": "user-5.png",
+        "description": "Digital collector and creator. Sample profile text for demo purposes.",
+        "bool": true
+      },
+      {
+        "name": "User 04",
+        "userImage": "user-9.png",
+        "description": "Digital collector and creator. Sample profile text for demo purposes.",
+        "bool": true
+      }
+    ]
+  }
+]

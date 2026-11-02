@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Jungle World",
+    "collection": 1,
+    "collectionBackground": "creatorbackground-1.png",
+    "images": [
+      "creatorbackground-2.png",
+      "creatorbackground-3.png",
+      "creatorbackground-4.png"
+    ],
+    "creator": "Creator 01",
+    "totalItems": 23,
+    "grandTotal": 1.5456,
+    "description": "A sample collection of generative artworks used to demonstrate the collection page.",
+    "floorPrice": {
+      "name": "Floor Price",
+      "price": "$358689.034",
+      "growthRate": "+12.11%"
+    },
+    "volume": {
+      "name": "Volume",
+      "price": "$58689.034"
+    },
+    "latestPrice": "$8749.083"
+  },
+  {
+    "name": "Virtual World",
+    "collection": 2,
+    "collectionBackground": "creatorbackground-5.png",
+    "images": [
+      "creatorbackground-6.png",
+      "creatorbackground-7.png",
+      "creatorbackground-8.png"
+    ],
+    "creator": "Creator 02",
+    "totalItems": 233,
+    "grandTotal": 2.5456,
+    "description": "A sample collection of generative artworks used to demonstrate the collection page.",
+    "floorPrice": {
+      "name": "Floor Price",
+      "price": "$128689.034",
+      "growthRate": "+11.11%"
+    },
+    "volume": {
+      "name": "Volume",
+      "price": "$48689.034"
+    },
+    "latestPrice": "$2749.083"
+  },
+  {
+    "name": "Virtual World",
+    "collection": 3,
+    "collectionBackground": "creatorbackground-9.png",
+    "images": [
+      "creatorbackground-10.png",
+      "creatorbackground-11.png",
+      "creatorbackground-1.png"
+    ],
+    "creator": "Creator 03",
+    "totalItems": 33,
+    "grandTotal": 6.5456,
+    "description": "A sample collection of generative artworks used to demonstrate the collection page.",
+    "floorPrice": {
+      "name": "Floor Price",
+      "price": "$458689.034",
+      "growthRate": "+41.11%"
+    },
+    "volume": {
+      "name": "Volume",
+      "price": "$68689.034"
+    },
+    "latestPrice": "$9749.083"
+  }
+]

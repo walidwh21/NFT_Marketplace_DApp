@@ -1,0 +1,9 @@
+stateDiagram-v2
+    [*] --> Listed: createToken()
+    Listed --> Sold: createMarketSale()
+    Sold --> Listed: resellToken()
+    Sold --> [*]: held by buyer
+    note right of Listed
+        Token is held by the
+        marketplace contract
+    end note

@@ -1,0 +1,14 @@
+flowchart LR
+    Home["/ Home"] --> Search["/searchPage"]
+    Home --> Author["/author"]
+    Home --> Collection["/collection"]
+    Search --> Details["/NFT-details"]
+    Details -->|buy| Author
+    Author --> Resell["/reSellToken"]
+    Author --> Upload["/uploadNFT"]
+    Upload --> Search
+    Home --> Connect["/connectWallet"]
+    Home --> Transfer["/transferFunds"]
+    Home --> Account["/account"]
+    Home --> Auth["/login · /signUp"]
+    Home --> Info["/aboutus · /contactus · /subscription"]

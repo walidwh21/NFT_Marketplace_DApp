@@ -1,0 +1,21 @@
+flowchart TB
+    subgraph Browser["Browser"]
+        W["Wallet (MetaMask etc.)"]
+        subgraph App["Next.js app"]
+            P["pages/ + features/ + components/"]
+            C["context/NFTMarketplaceContext"]
+            L["lib/contracts · lib/ipfs · lib/config"]
+        end
+    end
+    subgraph Chain["EVM network"]
+        M["NFTMarketplace.sol\nERC-721 + escrow market"]
+        T["TransferFunds.sol\ntransfer ledger"]
+    end
+    I[("IPFS pinning service\nimages + metadata JSON")]
+    P --> C --> L
+    L -- "sign & send tx" --> W
+    W --> M
+    W --> T
+    L -- "read-only JSON-RPC" --> M
+    L -- "HTTP API (pin)" --> I
+    L -- "gateway fetch (metadata)" --> I

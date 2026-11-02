@@ -1,0 +1,19 @@
+sequenceDiagram
+    autonumber
+    actor C as Creator
+    participant App as Web app
+    participant I as IPFS
+    participant M as NFTMarketplace
+    actor B as Buyer
+    C->>App: Image, name, price, description
+    App->>I: Pin image
+    I-->>App: Image URL
+    App->>I: Pin metadata JSON
+    I-->>App: Metadata URL
+    App->>M: createToken(url, price) + listing fee
+    M-->>M: Mint token, hold it in escrow
+    B->>App: Click "Buy now"
+    App->>M: createMarketSale(id) + price
+    M-->>C: Pays sale price
+    M-->>M: Forwards listing fee to operator
+    M-->>B: Transfers token ownership

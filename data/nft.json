@@ -1,0 +1,794 @@
+[
+  {
+    "name": "RENGA ",
+    "nftImage": "nft-image-1.png",
+    "owner": "Creator 05",
+    "nftId": "#3518",
+    "price": "1.000 ETH",
+    "convertPrice": "$3,221.22",
+    "stock": 96,
+    "creator": "Creator 06",
+    "Collection": "Sample Collection",
+    "categoryImage": "nft-image-1.png",
+    "categoryBackground": "creatorbackground-11.jpg",
+    "like": 234,
+    "view": 345,
+    "type": "image",
+    "generalCagegory": "Virtual Worlds",
+    "Auction": {
+      "days": 23,
+      "hours": 12,
+      "mins": 13,
+      "secs": 34
+    },
+    "description": "A sample series of illustrated collectibles used to demonstrate the item page.",
+    "details": {
+      "imageSize": "2000 x 2000 px.IMAGE(685KB)",
+      "accountAddress": "0x52dc347c558b08bd3840cdd5af5a86d9153847a3",
+      "TokenID": "100300372864"
+    },
+    "historyBid": [
+      {
+        "image": "user-1.png",
+        "name": "User 05",
+        "offer": "$100",
+        "time": "Jun 11 - 4:12 PM"
+      },
+      {
+        "image": "user-2.png",
+        "name": "User 06",
+        "offer": "$1700",
+        "time": "Jun 15 - 2:02 PM"
+      },
+      {
+        "image": "user-3.png",
+        "name": "User 07",
+        "offer": "$500",
+        "time": "Jun 04 - 1:52 PM"
+      },
+      {
+        "image": "user-4.png",
+        "name": "User 08",
+        "offer": "$700",
+        "time": "Jun 16 - 7:12 PM"
+      },
+      {
+        "image": "user-5.png",
+        "name": "User 09",
+        "offer": "$300",
+        "time": "Jun 22 - 11:12 PM"
+      }
+    ],
+    "provanance": [
+      {
+        "image": "user-6.png",
+        "name": "User 10",
+        "time": "Jun 21 - 1:12 PM"
+      },
+      {
+        "image": "user-7.png",
+        "name": "User 11",
+        "time": "Jun 25 - 2:02 PM"
+      },
+      {
+        "image": "user-8.png",
+        "name": "User 12",
+        "time": "Jun 24 - 11:52 PM"
+      },
+      {
+        "image": "user-9.png",
+        "name": "User 13",
+        "time": "Jun 16 - 7:12 PM"
+      },
+      {
+        "image": "user-10.png",
+        "name": "User 14",
+        "time": "Jun 28 - 10:12 PM"
+      }
+    ]
+  },
+  {
+    "name": "Jungle ",
+    "nftImage": "nft-image-2.png",
+    "owner": "Creator 07",
+    "nftId": "#2518",
+    "price": "2.000 ETH",
+    "convertPrice": "$1,231.22",
+    "stock": 26,
+    "creator": "Creator 08",
+    "Collection": "Jungle Moon Ape",
+    "categoryImage": "nft-image-2.png",
+    "categoryBackground": "creatorbackground-1.jpg",
+    "like": 34,
+    "view": 45,
+    "type": "image",
+    "generalCagegory": "Jungle Worlds",
+    "Auction": {
+      "days": 13,
+      "hours": 22,
+      "mins": 23,
+      "secs": 14
+    },
+    "description": "A sample series of illustrated collectibles used to demonstrate the item page.",
+    "details": {
+      "imageSize": "4000 x 4000 px.IMAGE(685KB)",
+      "accountAddress": "0x52dc347c558b08bd3840cdd5af5a86d9153847a3",
+      "TokenID": "100300372864"
+    },
+    "historyBid": [
+      {
+        "image": "user-2.png",
+        "name": "User 15",
+        "offer": "$200",
+        "time": "Jun 21 - 4:12 PM"
+      },
+      {
+        "image": "user-1.png",
+        "name": "User 16",
+        "offer": "$700",
+        "time": "Jun 05 - 2:02 PM"
+      },
+      {
+        "image": "user-6.png",
+        "name": "User 17",
+        "offer": "$800",
+        "time": "Jun 14 - 1:52 PM"
+      },
+      {
+        "image": "user-9.png",
+        "name": "User 18",
+        "offer": "$340",
+        "time": "Jun 26 - 7:12 PM"
+      },
+      {
+        "image": "user-1.png",
+        "name": "User 19",
+        "offer": "$100",
+        "time": "Jun 23 - 11:12 PM"
+      }
+    ],
+    "provanance": [
+      {
+        "image": "user-10.png",
+        "name": "User 20",
+        "time": "Jun 11 - 1:12 PM"
+      },
+      {
+        "image": "user-3.png",
+        "name": "User 21",
+        "time": "Jun 15 - 2:02 PM"
+      },
+      {
+        "image": "user-9.png",
+        "name": "User 22",
+        "time": "Jun 14 - 11:52 PM"
+      },
+      {
+        "image": "user-10.png",
+        "name": "User 23",
+        "time": "Jun 19 - 7:12 PM"
+      },
+      {
+        "image": "user-1.png",
+        "name": "User 24",
+        "time": "Jun 18 - 10:12 PM"
+      }
+    ]
+  },
+  {
+    "name": "Blind Eye ",
+    "nftImage": "nft-image-3.png",
+    "owner": "Creator 09",
+    "nftId": "#22318",
+    "price": "12.000 ETH",
+    "convertPrice": "$2,231.22",
+    "stock": 29,
+    "creator": "Creator 10",
+    "Collection": "Tungle Time Ape",
+    "categoryImage": "nft-image-3.png",
+    "categoryBackground": "creatorbackground-3.jpg",
+    "like": 340,
+    "view": 402,
+    "type": "image",
+    "generalCagegory": "Gym Worlds",
+    "Auction": {
+      "days": 14,
+      "hours": 12,
+      "mins": 43,
+      "secs": 34
+    },
+    "description": "A sample series of illustrated collectibles used to demonstrate the item page.",
+    "details": {
+      "imageSize": "4000 x 4000 px.IMAGE(685KB)",
+      "accountAddress": "0x52dc347c558b08bd3840cdd5af5a86d9153847a3",
+      "TokenID": "100300372864"
+    },
+    "historyBid": [
+      {
+        "image": "user-3.png",
+        "name": "User 25",
+        "offer": "$1500",
+        "time": "Jun 11 - 4:12 PM"
+      },
+      {
+        "image": "user-5.png",
+        "name": "User 26",
+        "offer": "$1300",
+        "time": "Jun 15 - 2:02 PM"
+      },
+      {
+        "image": "user-9.png",
+        "name": "User 27",
+        "offer": "$2450",
+        "time": "Jun 24 - 1:52 PM"
+      },
+      {
+        "image": "user-1.png",
+        "name": "User 28",
+        "offer": "$30",
+        "time": "Jun 26 - 7:12 PM"
+      },
+      {
+        "image": "user-3.png",
+        "name": "User 19",
+        "offer": "$00",
+        "time": "Jun 23 - 11:12 PM"
+      }
+    ],
+    "provanance": [
+      {
+        "image": "user-1.png",
+        "name": "User 29",
+        "time": "Jun 11 - 2:12 PM"
+      },
+      {
+        "image": "user-9.png",
+        "name": "User 30",
+        "time": "Jun 17 - 2:02 PM"
+      },
+      {
+        "image": "user-4.png",
+        "name": "User 31",
+        "time": "Jun 24 - 11:52 PM"
+      },
+      {
+        "image": "user-5.png",
+        "name": "User 32",
+        "time": "Jun 29 - 7:12 PM"
+      },
+      {
+        "image": "user-10.png",
+        "name": "User 33",
+        "time": "Jun 10 - 13:12 PM"
+      }
+    ]
+  },
+  {
+    "name": "Opne Eye ",
+    "nftImage": "nft-image-1.png",
+    "owner": "Creator 11",
+    "nftId": "#52318",
+    "price": "112.000 ETH",
+    "convertPrice": "$22,231.22",
+    "stock": 129,
+    "creator": "Creator 12",
+    "Collection": "Tungle none",
+    "categoryImage": "nft-image-1.png",
+    "categoryBackground": "creatorbackground-4.jpg",
+    "like": 1340,
+    "view": 4302,
+    "type": "image",
+    "generalCagegory": "Wounder Worlds",
+    "Auction": {
+      "days": 34,
+      "hours": 22,
+      "mins": 33,
+      "secs": 54
+    },
+    "description": "A sample series of illustrated collectibles used to demonstrate the item page.",
+    "details": {
+      "imageSize": "2000 x 2000 px.IMAGE(685KB)",
+      "accountAddress": "0x2e3bc7a0e1d1589c6aacb81282792b4a0e449006",
+      "TokenID": "700300372864"
+    },
+    "historyBid": [
+      {
+        "image": "user-9.png",
+        "name": "User 34",
+        "offer": "$200",
+        "time": "Jun 21 - 4:12 PM"
+      },
+      {
+        "image": "user-2.png",
+        "name": "User 35",
+        "offer": "$1500",
+        "time": "Jun 25 - 2:02 PM"
+      },
+      {
+        "image": "user-1.png",
+        "name": "User 36",
+        "offer": "$1450",
+        "time": "Jun 14 - 1:52 PM"
+      },
+      {
+        "image": "user-8.png",
+        "name": "User 37",
+        "offer": "$90",
+        "time": "Jun 26 - 7:12 PM"
+      },
+      {
+        "image": "user-3.png",
+        "name": "User 19",
+        "offer": "$00",
+        "time": "Jun 23 - 11:12 PM"
+      }
+    ],
+    "provanance": [
+      {
+        "image": "user-1.png",
+        "name": "User 29",
+        "time": "Jun 11 - 2:12 PM"
+      },
+      {
+        "image": "user-9.png",
+        "name": "User 30",
+        "time": "Jun 17 - 2:02 PM"
+      },
+      {
+        "image": "user-4.png",
+        "name": "User 31",
+        "time": "Jun 24 - 11:52 PM"
+      },
+      {
+        "image": "user-5.png",
+        "name": "User 32",
+        "time": "Jun 29 - 7:12 PM"
+      },
+      {
+        "image": "user-10.png",
+        "name": "User 33",
+        "time": "Jun 10 - 13:12 PM"
+      }
+    ]
+  },
+  {
+    "name": "Party Monkey Eye ",
+    "nftImage": "nft-image-2.png",
+    "owner": "Creator 13",
+    "nftId": "#32318",
+    "price": "12.000 ETH",
+    "convertPrice": "$2231.22",
+    "stock": 1290,
+    "creator": "Creator 14",
+    "Collection": "Jungle none",
+    "categoryImage": "nft-image-2.png",
+    "categoryBackground": "creatorbackground-5.jpg",
+    "like": 140,
+    "view": 432,
+    "type": "image",
+    "generalCagegory": "Party Worlds",
+    "Auction": {
+      "days": 34,
+      "hours": 22,
+      "mins": 33,
+      "secs": 54
+    },
+    "description": "A sample series of illustrated collectibles used to demonstrate the item page.",
+    "details": {
+      "imageSize": "2000 x 2000 px.IMAGE(685KB)",
+      "accountAddress": "0x2e3bc7a0e1d1589c6aacb81282792b4a0e449006",
+      "TokenID": "700300372864"
+    },
+    "historyBid": [
+      {
+        "image": "user-9.png",
+        "name": "User 34",
+        "offer": "$200",
+        "time": "Jun 21 - 4:12 PM"
+      },
+      {
+        "image": "user-2.png",
+        "name": "User 35",
+        "offer": "$1500",
+        "time": "Jun 25 - 2:02 PM"
+      },
+      {
+        "image": "user-1.png",
+        "name": "User 36",
+        "offer": "$1450",
+        "time": "Jun 14 - 1:52 PM"
+      },
+      {
+        "image": "user-8.png",
+        "name": "User 37",
+        "offer": "$90",
+        "time": "Jun 26 - 7:12 PM"
+      },
+      {
+        "image": "user-3.png",
+        "name": "User 19",
+        "offer": "$00",
+        "time": "Jun 23 - 11:12 PM"
+      }
+    ],
+    "provanance": [
+      {
+        "image": "user-1.png",
+        "name": "User 29",
+        "time": "Jun 11 - 2:12 PM"
+      },
+      {
+        "image": "user-9.png",
+        "name": "User 30",
+        "time": "Jun 17 - 2:02 PM"
+      },
+      {
+        "image": "user-4.png",
+        "name": "User 31",
+        "time": "Jun 24 - 11:52 PM"
+      },
+      {
+        "image": "user-5.png",
+        "name": "User 32",
+        "time": "Jun 29 - 7:12 PM"
+      },
+      {
+        "image": "user-10.png",
+        "name": "User 33",
+        "time": "Jun 10 - 13:12 PM"
+      }
+    ]
+  },
+  {
+    "name": "Party Monkey Eye ",
+    "nftImage": "nft-image-2.png",
+    "owner": "Creator 13",
+    "nftId": "#32318",
+    "price": "12.000 ETH",
+    "convertPrice": "$2231.22",
+    "stock": 1290,
+    "creator": "Creator 14",
+    "Collection": "Jungle none",
+    "categoryImage": "nft-image-2.png",
+    "categoryBackground": "creatorbackground-5.jpg",
+    "like": 140,
+    "view": 432,
+    "type": "image",
+    "generalCagegory": "Party Worlds",
+    "Auction": {
+      "days": 34,
+      "hours": 22,
+      "mins": 33,
+      "secs": 54
+    },
+    "description": "A sample series of illustrated collectibles used to demonstrate the item page.",
+    "details": {
+      "imageSize": "2000 x 2000 px.IMAGE(685KB)",
+      "accountAddress": "0x2e3bc7a0e1d1589c6aacb81282792b4a0e449006",
+      "TokenID": "700300372864"
+    },
+    "historyBid": [
+      {
+        "image": "user-9.png",
+        "name": "User 34",
+        "offer": "$200",
+        "time": "Jun 21 - 4:12 PM"
+      },
+      {
+        "image": "user-2.png",
+        "name": "User 35",
+        "offer": "$1500",
+        "time": "Jun 25 - 2:02 PM"
+      },
+      {
+        "image": "user-1.png",
+        "name": "User 36",
+        "offer": "$1450",
+        "time": "Jun 14 - 1:52 PM"
+      },
+      {
+        "image": "user-8.png",
+        "name": "User 37",
+        "offer": "$90",
+        "time": "Jun 26 - 7:12 PM"
+      },
+      {
+        "image": "user-3.png",
+        "name": "User 19",
+        "offer": "$00",
+        "time": "Jun 23 - 11:12 PM"
+      }
+    ],
+    "provanance": [
+      {
+        "image": "user-1.png",
+        "name": "User 29",
+        "time": "Jun 11 - 2:12 PM"
+      },
+      {
+        "image": "user-9.png",
+        "name": "User 30",
+        "time": "Jun 17 - 2:02 PM"
+      },
+      {
+        "image": "user-4.png",
+        "name": "User 31",
+        "time": "Jun 24 - 11:52 PM"
+      },
+      {
+        "image": "user-5.png",
+        "name": "User 32",
+        "time": "Jun 29 - 7:12 PM"
+      },
+      {
+        "image": "user-10.png",
+        "name": "User 33",
+        "time": "Jun 10 - 13:12 PM"
+      }
+    ]
+  },
+  {
+    "name": "Party Monkey Eye ",
+    "nftImage": "nft-image-2.png",
+    "owner": "Creator 13",
+    "nftId": "#32318",
+    "price": "12.000 ETH",
+    "convertPrice": "$2231.22",
+    "stock": 1290,
+    "creator": "Creator 14",
+    "Collection": "Jungle none",
+    "categoryImage": "nft-image-2.png",
+    "categoryBackground": "creatorbackground-5.jpg",
+    "like": 140,
+    "view": 432,
+    "type": "image",
+    "generalCagegory": "Party Worlds",
+    "Auction": {
+      "days": 34,
+      "hours": 22,
+      "mins": 33,
+      "secs": 54
+    },
+    "description": "A sample series of illustrated collectibles used to demonstrate the item page.",
+    "details": {
+      "imageSize": "2000 x 2000 px.IMAGE(685KB)",
+      "accountAddress": "0x2e3bc7a0e1d1589c6aacb81282792b4a0e449006",
+      "TokenID": "700300372864"
+    },
+    "historyBid": [
+      {
+        "image": "user-9.png",
+        "name": "User 34",
+        "offer": "$200",
+        "time": "Jun 21 - 4:12 PM"
+      },
+      {
+        "image": "user-2.png",
+        "name": "User 35",
+        "offer": "$1500",
+        "time": "Jun 25 - 2:02 PM"
+      },
+      {
+        "image": "user-1.png",
+        "name": "User 36",
+        "offer": "$1450",
+        "time": "Jun 14 - 1:52 PM"
+      },
+      {
+        "image": "user-8.png",
+        "name": "User 37",
+        "offer": "$90",
+        "time": "Jun 26 - 7:12 PM"
+      },
+      {
+        "image": "user-3.png",
+        "name": "User 19",
+        "offer": "$00",
+        "time": "Jun 23 - 11:12 PM"
+      }
+    ],
+    "provanance": [
+      {
+        "image": "user-1.png",
+        "name": "User 29",
+        "time": "Jun 11 - 2:12 PM"
+      },
+      {
+        "image": "user-9.png",
+        "name": "User 30",
+        "time": "Jun 17 - 2:02 PM"
+      },
+      {
+        "image": "user-4.png",
+        "name": "User 31",
+        "time": "Jun 24 - 11:52 PM"
+      },
+      {
+        "image": "user-5.png",
+        "name": "User 32",
+        "time": "Jun 29 - 7:12 PM"
+      },
+      {
+        "image": "user-10.png",
+        "name": "User 33",
+        "time": "Jun 10 - 13:12 PM"
+      }
+    ]
+  },
+  {
+    "name": "Party Monkey Eye ",
+    "nftImage": "nft-image-2.png",
+    "owner": "Creator 13",
+    "nftId": "#32318",
+    "price": "12.000 ETH",
+    "convertPrice": "$2231.22",
+    "stock": 1290,
+    "creator": "Creator 14",
+    "Collection": "Jungle none",
+    "categoryImage": "nft-image-2.png",
+    "categoryBackground": "creatorbackground-5.jpg",
+    "like": 140,
+    "view": 432,
+    "type": "image",
+    "generalCagegory": "Party Worlds",
+    "Auction": {
+      "days": 34,
+      "hours": 22,
+      "mins": 33,
+      "secs": 54
+    },
+    "description": "A sample series of illustrated collectibles used to demonstrate the item page.",
+    "details": {
+      "imageSize": "2000 x 2000 px.IMAGE(685KB)",
+      "accountAddress": "0x2e3bc7a0e1d1589c6aacb81282792b4a0e449006",
+      "TokenID": "700300372864"
+    },
+    "historyBid": [
+      {
+        "image": "user-9.png",
+        "name": "User 34",
+        "offer": "$200",
+        "time": "Jun 21 - 4:12 PM"
+      },
+      {
+        "image": "user-2.png",
+        "name": "User 35",
+        "offer": "$1500",
+        "time": "Jun 25 - 2:02 PM"
+      },
+      {
+        "image": "user-1.png",
+        "name": "User 36",
+        "offer": "$1450",
+        "time": "Jun 14 - 1:52 PM"
+      },
+      {
+        "image": "user-8.png",
+        "name": "User 37",
+        "offer": "$90",
+        "time": "Jun 26 - 7:12 PM"
+      },
+      {
+        "image": "user-3.png",
+        "name": "User 19",
+        "offer": "$00",
+        "time": "Jun 23 - 11:12 PM"
+      }
+    ],
+    "provanance": [
+      {
+        "image": "user-1.png",
+        "name": "User 29",
+        "time": "Jun 11 - 2:12 PM"
+      },
+      {
+        "image": "user-9.png",
+        "name": "User 30",
+        "time": "Jun 17 - 2:02 PM"
+      },
+      {
+        "image": "user-4.png",
+        "name": "User 31",
+        "time": "Jun 24 - 11:52 PM"
+      },
+      {
+        "image": "user-5.png",
+        "name": "User 32",
+        "time": "Jun 29 - 7:12 PM"
+      },
+      {
+        "image": "user-10.png",
+        "name": "User 33",
+        "time": "Jun 10 - 13:12 PM"
+      }
+    ]
+  },
+  {
+    "name": "Party Monkey Eye ",
+    "nftImage": "nft-image-2.png",
+    "owner": "Creator 13",
+    "nftId": "#32318",
+    "price": "12.000 ETH",
+    "convertPrice": "$2231.22",
+    "stock": 1290,
+    "creator": "Creator 14",
+    "Collection": "Jungle none",
+    "categoryImage": "nft-image-2.png",
+    "categoryBackground": "creatorbackground-5.jpg",
+    "like": 140,
+    "view": 432,
+    "type": "image",
+    "generalCagegory": "Party Worlds",
+    "Auction": {
+      "days": 34,
+      "hours": 22,
+      "mins": 33,
+      "secs": 54
+    },
+    "description": "A sample series of illustrated collectibles used to demonstrate the item page.",
+    "details": {
+      "imageSize": "2000 x 2000 px.IMAGE(685KB)",
+      "accountAddress": "0x2e3bc7a0e1d1589c6aacb81282792b4a0e449006",
+      "TokenID": "700300372864"
+    },
+    "historyBid": [
+      {
+        "image": "user-9.png",
+        "name": "User 34",
+        "offer": "$200",
+        "time": "Jun 21 - 4:12 PM"
+      },
+      {
+        "image": "user-2.png",
+        "name": "User 35",
+        "offer": "$1500",
+        "time": "Jun 25 - 2:02 PM"
+      },
+      {
+        "image": "user-1.png",
+        "name": "User 36",
+        "offer": "$1450",
+        "time": "Jun 14 - 1:52 PM"
+      },
+      {
+        "image": "user-8.png",
+        "name": "User 37",
+        "offer": "$90",
+        "time": "Jun 26 - 7:12 PM"
+      },
+      {
+        "image": "user-3.png",
+        "name": "User 19",
+        "offer": "$00",
+        "time": "Jun 23 - 11:12 PM"
+      }
+    ],
+    "provanance": [
+      {
+        "image": "user-1.png",
+        "name": "User 29",
+        "time": "Jun 11 - 2:12 PM"
+      },
+      {
+        "image": "user-9.png",
+        "name": "User 30",
+        "time": "Jun 17 - 2:02 PM"
+      },
+      {
+        "image": "user-4.png",
+        "name": "User 31",
+        "time": "Jun 24 - 11:52 PM"
+      },
+      {
+        "image": "user-5.png",
+        "name": "User 32",
+        "time": "Jun 29 - 7:12 PM"
+      },
+      {
+        "image": "user-10.png",
+        "name": "User 33",
+        "time": "Jun 10 - 13:12 PM"
+      }
+    ]
+  }
+]
